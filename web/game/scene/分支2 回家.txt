@@ -1,0 +1,3 @@
+斜木  七基:（有点累了……，先回家好了） -fontSize=default;
+intro:你错过了找工作的机会，回到宿舍。|抱着山羊抱枕，淡淡地睡去。|（游戏结束）（建议开启其他选项） -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=2000;
+end;

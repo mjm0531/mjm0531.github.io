@@ -1,0 +1,6 @@
+Game_name:恋与娜娜;
+Game_key:c8f8d589c30371;
+Title_img:b cafe.jpg;
+Title_bgm:just-relax-11157.mp3;
+Textbox_theme:imss;
+Game_Logo:b cafe.jpg;

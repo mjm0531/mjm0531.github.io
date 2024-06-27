@@ -1,0 +1,9 @@
+bgm:选择背景音乐;
+intro:本作为18TRIP同人游戏，试做的无聊产物。|首先，ooc，其次，与原作内容毫无关联。|细节懒得做了轻点喷，本作可能有bug但不会突然维护，请娜批放心。|感谢娜批或其他18吹批游玩，|禁止二次转载，角色版权归18TRIP所有。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=2000;
+intro:你是斜木娜娜，一名淡淡的男子，|喜欢安静，远离浮华，从不会刻意地去争去抢。|你是轻音部的部长，为了增加社团资金，你决定尽一份心力，去找工作。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=2000;
+changeBg:b supermarket.jpg -next;
+changeFigure:1 normal.png -next;
+setAnimation:enter-from-left -target=fig-left -next;
+斜木  七基:超市好像在招募收银员……。 -fontSize=default;
+（不过那里环境音太吵杂了，还是算了。） -fontSize=default;
+choose:往前走:分支1 前往咖啡厅.txt|回家:分支2 回家.txt;
